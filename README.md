@@ -50,26 +50,20 @@ Flask (pip install Flask)
 * Install Flask: pip install Flask
 
 ### Routes and Templates
-* Home Route
-Access the root route to receive a simple "Hello, World!" message.
+* **Home Route :** Access the root route to receive a simple "Hello, World!" message.
 
-* Welcome Route
-Visit the /welcome route to see a welcome message to Flask tutorials.
+* **Welcome Route :** Visit the /welcome route to see a welcome message to Flask tutorials.
 
-* Index Route
-Navigate to /index to render an HTML template, showcasing the usage of templates.
+* **Index Route :** Navigate to /index to render an HTML template, showcasing the usage of templates.
 
-* Score Routes
-Access /success/<score> and /fail/<score> routes to display dynamic content based on a person's score.
+* **Score Routes :** Access /success/<score> and /fail/<score> routes to display dynamic content based on a person's score.
 
-* Calculate Route
-Visit /calculate to use a form for inputting scores and calculating the average.
+* **Calculate Route :** Visit /calculate to use a form for inputting scores and calculating the average.
 
 ### Running the Application
 
-Execute the following command to run the Flask app: python app.py
-
-The app will be available at http://localhost:5000.
+* Execute the following command to run the Flask app : python app.py
+* The app will be available at http://localhost:5000.
 
 ### Contributing
 
