@@ -51,7 +51,6 @@ Flask (pip install Flask)
 
 ### Routes and Templates
 * Home Route
-* 
 Access the root route to receive a simple "Hello, World!" message.
 
 * Welcome Route
